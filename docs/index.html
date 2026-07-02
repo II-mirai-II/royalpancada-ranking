@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Ranking do Clã - RoyalPancada</title>
+    <link rel="stylesheet" href="./styles.css">
+  </head>
+  <body>
+    <main class="shell">
+      <header class="hero">
+        <div>
+          <p class="eyebrow">RoyalPancada</p>
+          <h1>Ranking do Clã - RoyalPancada</h1>
+          <p id="publishedAt">Carregando atualização...</p>
+        </div>
+      </header>
+      <section class="controls">
+        <label>Visualização
+          <select id="viewSelect">
+            <option value="general">Ranking Geral</option>
+            <option value="war">Guerra de Clãs</option>
+            <option value="cwl">CWL</option>
+            <option value="games">Jogos do Clã</option>
+            <option value="raids">Raides</option>
+            <option value="donations">Doações</option>
+            <option value="launches">Lançamentos</option>
+            <option value="rules">Regulamento</option>
+          </select>
+        </label>
+        <label id="monthWrap">Mês
+          <select id="monthSelect"></select>
+        </label>
+        <label id="categoryWrap">Categoria
+          <select id="categoryFilter">
+            <option value="all">Todas</option>
+            <option value="war">Guerra de Clãs</option>
+            <option value="cwl">CWL</option>
+            <option value="games">Jogos do Clã</option>
+            <option value="raids">Raides</option>
+            <option value="donations">Doações</option>
+          </select>
+        </label>
+        <label id="memberWrap">Jogador
+          <select id="memberFilter"><option value="all">Todos</option></select>
+        </label>
+      </section>
+      <section class="board">
+        <div class="board-head">
+          <div>
+            <p id="subtitle">Ranking mensal</p>
+            <h2 id="title">Ranking Geral</h2>
+          </div>
+        </div>
+        <div id="content" class="table-wrap"></div>
+      </section>
+    </main>
+    <script src="./app.js"></script>
+  </body>
+</html>
