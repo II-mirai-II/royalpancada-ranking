@@ -63,7 +63,9 @@ function renderLaunches() {
 function renderRules() {
   $("title").textContent = "Regulamento";
   $("subtitle").textContent = "Regras oficiais do clã";
-  $("content").innerHTML = `<article class="rules">${esc(data.regulation_md || "Regulamento não publicado.")}</article>`;
+  $("content").innerHTML = data.regulation_html
+    ? `<article class="rules-document">${data.regulation_html}</article>`
+    : `<p class="empty">Regulamento não publicado.</p>`;
 }
 
 function render() {
