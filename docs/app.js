@@ -22,17 +22,17 @@ function renderRanking(view) {
   $("subtitle").textContent = `Ranking mensal • ${month}`;
   if (view === "general") {
     $("content").innerHTML = `<table><thead><tr>
-      <th>Pos.</th><th>Jogador</th><th>Status</th><th class="num">Nota geral</th><th class="num">Bruto total</th>
+      <th>Pos.</th><th>Jogador</th><th>Status</th><th class="num">Nota geral</th>
       <th class="num">Guerra</th><th class="num">CWL</th><th class="num">Jogos</th><th class="num">Raides</th><th class="num">Doações</th>
     </tr></thead><tbody>${rows.map((r) => `<tr${rankAttrs(r.position)}>
       <td><strong class="rank-pos">${medal(r.position)}</strong></td>
       <td>${esc(r.name)}${r.tag ? `<br><small>${esc(r.tag)}</small>` : ""}</td>
       <td>${statusBadge(r)}</td>
-      <td class="num"><strong>${fmt(r.score)}</strong></td><td class="num">${fmt(r.raw_score)}</td>
+      <td class="num"><strong>${fmt(r.score)}</strong></td>
       <td class="num">${fmt(r.notes_by_category.war)}</td><td class="num">${fmt(r.notes_by_category.cwl)}</td>
       <td class="num">${fmt(r.notes_by_category.games)}</td><td class="num">${fmt(r.notes_by_category.raids)}</td>
       <td class="num">${fmt(r.notes_by_category.donations)}</td>
-    </tr>`).join("") || `<tr><td colspan="10" class="empty">Sem pontuação neste mês.</td></tr>`}</tbody></table>`;
+    </tr>`).join("") || `<tr><td colspan="9" class="empty">Sem pontuação neste mês.</td></tr>`}</tbody></table>`;
     return;
   }
   $("content").innerHTML = `<table><thead><tr>
