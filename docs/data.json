@@ -1,5 +1,5 @@
 {
-  "published_at": "2026-07-02T17:12:21-03:00",
+  "published_at": "2026-07-03T14:27:27-03:00",
   "current_month": "2026-07",
   "months": [
     "2026-07"
@@ -30,39 +30,6 @@
     "2026-07": {
       "general": [
         {
-          "member_id": 2,
-          "name": "Myrai",
-          "tag": "#28UOCQLOC",
-          "active": 1,
-          "deleted": 0,
-          "raw": {
-            "war": 50.0,
-            "cwl": 0,
-            "games": 0,
-            "raids": 0,
-            "donations": 859.0
-          },
-          "counts": {
-            "war": 2,
-            "cwl": 0,
-            "games": 0,
-            "raids": 0,
-            "donations": 1
-          },
-          "notes": 3,
-          "notes_by_category": {
-            "war": 58.82,
-            "cwl": 0,
-            "games": 0,
-            "raids": 0,
-            "donations": 100.0
-          },
-          "general": 21.76,
-          "score": 21.76,
-          "raw_score": 909.0,
-          "position": 1
-        },
-        {
           "member_id": 4,
           "name": "JEIMES BONDI",
           "tag": "P9UCLGLGR",
@@ -88,12 +55,12 @@
             "cwl": 0,
             "games": 0,
             "raids": 0,
-            "donations": 0.0
+            "donations": 0
           },
           "general": 20.0,
           "score": 20.0,
           "raw_score": 85.0,
-          "position": 2
+          "position": 1
         },
         {
           "member_id": 1,
@@ -106,93 +73,60 @@
             "cwl": 0,
             "games": 0,
             "raids": 0,
-            "donations": 251.0
+            "donations": 0
           },
           "counts": {
             "war": 2,
             "cwl": 0,
             "games": 0,
             "raids": 0,
-            "donations": 1
+            "donations": 0
           },
-          "notes": 3,
+          "notes": 2,
           "notes_by_category": {
             "war": 77.65,
             "cwl": 0,
             "games": 0,
             "raids": 0,
-            "donations": 29.22
+            "donations": 0
           },
-          "general": 18.45,
-          "score": 18.45,
-          "raw_score": 317.0,
+          "general": 15.53,
+          "score": 15.53,
+          "raw_score": 66.0,
+          "position": 2
+        },
+        {
+          "member_id": 2,
+          "name": "Myrai",
+          "tag": "#28UOCQLOC",
+          "active": 1,
+          "deleted": 0,
+          "raw": {
+            "war": 50.0,
+            "cwl": 0,
+            "games": 0,
+            "raids": 0,
+            "donations": 0
+          },
+          "counts": {
+            "war": 2,
+            "cwl": 0,
+            "games": 0,
+            "raids": 0,
+            "donations": 0
+          },
+          "notes": 2,
+          "notes_by_category": {
+            "war": 58.82,
+            "cwl": 0,
+            "games": 0,
+            "raids": 0,
+            "donations": 0
+          },
+          "general": 11.76,
+          "score": 11.76,
+          "raw_score": 50.0,
           "position": 3
-        },
-        {
-          "member_id": 5,
-          "name": "KingBento28",
-          "tag": "#GLRG2YQVQ",
-          "active": 1,
-          "deleted": 0,
-          "raw": {
-            "war": 0,
-            "cwl": 0,
-            "games": 0,
-            "raids": 0,
-            "donations": 234.0
-          },
-          "counts": {
-            "war": 0,
-            "cwl": 0,
-            "games": 0,
-            "raids": 0,
-            "donations": 1
-          },
-          "notes": 1,
-          "notes_by_category": {
-            "war": 0.0,
-            "cwl": 0,
-            "games": 0,
-            "raids": 0,
-            "donations": 27.24
-          },
-          "general": 2.72,
-          "score": 2.72,
-          "raw_score": 234.0,
-          "position": 4
-        },
-        {
-          "member_id": 7,
-          "name": "zeloni",
-          "tag": "#QRP92VLPP",
-          "active": 1,
-          "deleted": 0,
-          "raw": {
-            "war": 0,
-            "cwl": 0,
-            "games": 0,
-            "raids": 0,
-            "donations": 128.0
-          },
-          "counts": {
-            "war": 0,
-            "cwl": 0,
-            "games": 0,
-            "raids": 0,
-            "donations": 1
-          },
-          "notes": 1,
-          "notes_by_category": {
-            "war": 0.0,
-            "cwl": 0,
-            "games": 0,
-            "raids": 0,
-            "donations": 14.9
-          },
-          "general": 1.49,
-          "score": 1.49,
-          "raw_score": 128.0,
-          "position": 5
         },
         {
           "member_id": 11,
@@ -205,26 +139,92 @@
             "cwl": 0,
             "games": 0,
             "raids": 0,
-            "donations": 42.0
+            "donations": 0
           },
           "counts": {
             "war": 0,
             "cwl": 0,
             "games": 0,
             "raids": 0,
-            "donations": 1
+            "donations": 0
           },
-          "notes": 1,
+          "notes": 0,
           "notes_by_category": {
             "war": 0.0,
             "cwl": 0,
             "games": 0,
             "raids": 0,
-            "donations": 4.89
+            "donations": 0
           },
-          "general": 0.49,
-          "score": 0.49,
-          "raw_score": 42.0,
+          "general": 0.0,
+          "score": 0.0,
+          "raw_score": 0,
+          "position": 4
+        },
+        {
+          "member_id": 3,
+          "name": "GamerXD",
+          "tag": "#PQGYOCUYL",
+          "active": 1,
+          "deleted": 0,
+          "raw": {
+            "war": 0,
+            "cwl": 0,
+            "games": 0,
+            "raids": 0,
+            "donations": 0
+          },
+          "counts": {
+            "war": 0,
+            "cwl": 0,
+            "games": 0,
+            "raids": 0,
+            "donations": 0
+          },
+          "notes": 0,
+          "notes_by_category": {
+            "war": 0.0,
+            "cwl": 0,
+            "games": 0,
+            "raids": 0,
+            "donations": 0
+          },
+          "general": 0.0,
+          "score": 0.0,
+          "raw_score": 0,
+          "position": 5
+        },
+        {
+          "member_id": 5,
+          "name": "KingBento28",
+          "tag": "#GLRG2YQVQ",
+          "active": 1,
+          "deleted": 0,
+          "raw": {
+            "war": 0,
+            "cwl": 0,
+            "games": 0,
+            "raids": 0,
+            "donations": 0
+          },
+          "counts": {
+            "war": 0,
+            "cwl": 0,
+            "games": 0,
+            "raids": 0,
+            "donations": 0
+          },
+          "notes": 0,
+          "notes_by_category": {
+            "war": 0.0,
+            "cwl": 0,
+            "games": 0,
+            "raids": 0,
+            "donations": 0
+          },
+          "general": 0.0,
+          "score": 0.0,
+          "raw_score": 0,
           "position": 6
         },
         {
@@ -238,27 +238,60 @@
             "cwl": 0,
             "games": 0,
             "raids": 0,
-            "donations": 32.0
+            "donations": 0
           },
           "counts": {
             "war": 0,
             "cwl": 0,
             "games": 0,
             "raids": 0,
-            "donations": 1
+            "donations": 0
           },
-          "notes": 1,
+          "notes": 0,
           "notes_by_category": {
             "war": 0.0,
             "cwl": 0,
             "games": 0,
             "raids": 0,
-            "donations": 3.73
+            "donations": 0
           },
-          "general": 0.37,
-          "score": 0.37,
-          "raw_score": 32.0,
+          "general": 0.0,
+          "score": 0.0,
+          "raw_score": 0,
           "position": 7
+        },
+        {
+          "member_id": 7,
+          "name": "zeloni",
+          "tag": "#QRP92VLPP",
+          "active": 1,
+          "deleted": 0,
+          "raw": {
+            "war": 0,
+            "cwl": 0,
+            "games": 0,
+            "raids": 0,
+            "donations": 0
+          },
+          "counts": {
+            "war": 0,
+            "cwl": 0,
+            "games": 0,
+            "raids": 0,
+            "donations": 0
+          },
+          "notes": 0,
+          "notes_by_category": {
+            "war": 0.0,
+            "cwl": 0,
+            "games": 0,
+            "raids": 0,
+            "donations": 0
+          },
+          "general": 0.0,
+          "score": 0.0,
+          "raw_score": 0,
+          "position": 8
         },
         {
           "member_id": 10,
@@ -271,59 +304,26 @@
             "cwl": 0,
             "games": 0,
             "raids": 0,
-            "donations": 13.0
+            "donations": 0
           },
           "counts": {
             "war": 0,
             "cwl": 0,
             "games": 0,
             "raids": 0,
-            "donations": 1
+            "donations": 0
           },
-          "notes": 1,
+          "notes": 0,
           "notes_by_category": {
             "war": 0.0,
             "cwl": 0,
             "games": 0,
             "raids": 0,
-            "donations": 1.51
+            "donations": 0
           },
-          "general": 0.15,
-          "score": 0.15,
-          "raw_score": 13.0,
-          "position": 8
-        },
-        {
-          "member_id": 3,
-          "name": "GamerXD",
-          "tag": "#PQGYOCUYL",
-          "active": 1,
-          "deleted": 0,
-          "raw": {
-            "war": 0,
-            "cwl": 0,
-            "games": 0,
-            "raids": 0,
-            "donations": 10.0
-          },
-          "counts": {
-            "war": 0,
-            "cwl": 0,
-            "games": 0,
-            "raids": 0,
-            "donations": 1
-          },
-          "notes": 1,
-          "notes_by_category": {
-            "war": 0.0,
-            "cwl": 0,
-            "games": 0,
-            "raids": 0,
-            "donations": 1.16
-          },
-          "general": 0.12,
-          "score": 0.12,
-          "raw_score": 10.0,
+          "general": 0.0,
+          "score": 0.0,
+          "raw_score": 0,
           "position": 9
         }
       ],
@@ -354,7 +354,7 @@
             "cwl": 0,
             "games": 0,
             "raids": 0,
-            "donations": 0.0
+            "donations": 0
           },
           "general": 20.0,
           "score": 100.0,
@@ -372,24 +372,24 @@
             "cwl": 0,
             "games": 0,
             "raids": 0,
-            "donations": 251.0
+            "donations": 0
           },
           "counts": {
             "war": 2,
             "cwl": 0,
             "games": 0,
             "raids": 0,
-            "donations": 1
+            "donations": 0
           },
-          "notes": 3,
+          "notes": 2,
           "notes_by_category": {
             "war": 77.65,
             "cwl": 0,
             "games": 0,
             "raids": 0,
-            "donations": 29.22
+            "donations": 0
           },
-          "general": 18.45,
+          "general": 15.53,
           "score": 77.65,
           "raw_score": 66.0,
           "position": 2
@@ -405,24 +405,24 @@
             "cwl": 0,
             "games": 0,
             "raids": 0,
-            "donations": 859.0
+            "donations": 0
           },
           "counts": {
             "war": 2,
             "cwl": 0,
             "games": 0,
             "raids": 0,
-            "donations": 1
+            "donations": 0
           },
-          "notes": 3,
+          "notes": 2,
           "notes_by_category": {
             "war": 58.82,
             "cwl": 0,
             "games": 0,
             "raids": 0,
-            "donations": 100.0
+            "donations": 0
           },
-          "general": 21.76,
+          "general": 11.76,
           "score": 58.82,
           "raw_score": 50.0,
           "position": 3
@@ -438,24 +438,24 @@
             "cwl": 0,
             "games": 0,
             "raids": 0,
-            "donations": 42.0
+            "donations": 0
           },
           "counts": {
             "war": 0,
             "cwl": 0,
             "games": 0,
             "raids": 0,
-            "donations": 1
+            "donations": 0
           },
-          "notes": 1,
+          "notes": 0,
           "notes_by_category": {
             "war": 0.0,
             "cwl": 0,
             "games": 0,
             "raids": 0,
-            "donations": 4.89
+            "donations": 0
           },
-          "general": 0.49,
+          "general": 0.0,
           "score": 0.0,
           "raw_score": 0,
           "position": 4
@@ -471,24 +471,24 @@
             "cwl": 0,
             "games": 0,
             "raids": 0,
-            "donations": 10.0
+            "donations": 0
           },
           "counts": {
             "war": 0,
             "cwl": 0,
             "games": 0,
             "raids": 0,
-            "donations": 1
+            "donations": 0
           },
-          "notes": 1,
+          "notes": 0,
           "notes_by_category": {
             "war": 0.0,
             "cwl": 0,
             "games": 0,
             "raids": 0,
-            "donations": 1.16
+            "donations": 0
           },
-          "general": 0.12,
+          "general": 0.0,
           "score": 0.0,
           "raw_score": 0,
           "position": 5
@@ -504,24 +504,24 @@
             "cwl": 0,
             "games": 0,
             "raids": 0,
-            "donations": 234.0
+            "donations": 0
           },
           "counts": {
             "war": 0,
             "cwl": 0,
             "games": 0,
             "raids": 0,
-            "donations": 1
+            "donations": 0
           },
-          "notes": 1,
+          "notes": 0,
           "notes_by_category": {
             "war": 0.0,
             "cwl": 0,
             "games": 0,
             "raids": 0,
-            "donations": 27.24
+            "donations": 0
           },
-          "general": 2.72,
+          "general": 0.0,
           "score": 0.0,
           "raw_score": 0,
           "position": 6
@@ -537,24 +537,24 @@
             "cwl": 0,
             "games": 0,
             "raids": 0,
-            "donations": 32.0
+            "donations": 0
           },
           "counts": {
             "war": 0,
             "cwl": 0,
             "games": 0,
             "raids": 0,
-            "donations": 1
+            "donations": 0
           },
-          "notes": 1,
+          "notes": 0,
           "notes_by_category": {
             "war": 0.0,
             "cwl": 0,
             "games": 0,
             "raids": 0,
-            "donations": 3.73
+            "donations": 0
           },
-          "general": 0.37,
+          "general": 0.0,
           "score": 0.0,
           "raw_score": 0,
           "position": 7
@@ -570,24 +570,24 @@
             "cwl": 0,
             "games": 0,
             "raids": 0,
-            "donations": 128.0
+            "donations": 0
           },
           "counts": {
             "war": 0,
             "cwl": 0,
             "games": 0,
             "raids": 0,
-            "donations": 1
+            "donations": 0
           },
-          "notes": 1,
+          "notes": 0,
           "notes_by_category": {
             "war": 0.0,
             "cwl": 0,
             "games": 0,
             "raids": 0,
-            "donations": 14.9
+            "donations": 0
           },
-          "general": 1.49,
+          "general": 0.0,
           "score": 0.0,
           "raw_score": 0,
           "position": 8
@@ -603,24 +603,24 @@
             "cwl": 0,
             "games": 0,
             "raids": 0,
-            "donations": 13.0
+            "donations": 0
           },
           "counts": {
             "war": 0,
             "cwl": 0,
             "games": 0,
             "raids": 0,
-            "donations": 1
+            "donations": 0
           },
-          "notes": 1,
+          "notes": 0,
           "notes_by_category": {
             "war": 0.0,
             "cwl": 0,
             "games": 0,
             "raids": 0,
-            "donations": 1.51
+            "donations": 0
           },
-          "general": 0.15,
+          "general": 0.0,
           "score": 0.0,
           "raw_score": 0,
           "position": 9
@@ -638,24 +638,24 @@
             "cwl": 0,
             "games": 0,
             "raids": 0,
-            "donations": 251.0
+            "donations": 0
           },
           "counts": {
             "war": 2,
             "cwl": 0,
             "games": 0,
             "raids": 0,
-            "donations": 1
+            "donations": 0
           },
-          "notes": 3,
+          "notes": 2,
           "notes_by_category": {
             "war": 77.65,
             "cwl": 0,
             "games": 0,
             "raids": 0,
-            "donations": 29.22
+            "donations": 0
           },
-          "general": 18.45,
+          "general": 15.53,
           "score": 0,
           "raw_score": 0,
           "position": 1
@@ -671,24 +671,24 @@
             "cwl": 0,
             "games": 0,
             "raids": 0,
-            "donations": 42.0
+            "donations": 0
           },
           "counts": {
             "war": 0,
             "cwl": 0,
             "games": 0,
             "raids": 0,
-            "donations": 1
+            "donations": 0
           },
-          "notes": 1,
+          "notes": 0,
           "notes_by_category": {
             "war": 0.0,
             "cwl": 0,
             "games": 0,
             "raids": 0,
-            "donations": 4.89
+            "donations": 0
           },
-          "general": 0.49,
+          "general": 0.0,
           "score": 0,
           "raw_score": 0,
           "position": 2
@@ -704,24 +704,24 @@
             "cwl": 0,
             "games": 0,
             "raids": 0,
-            "donations": 10.0
+            "donations": 0
           },
           "counts": {
             "war": 0,
             "cwl": 0,
             "games": 0,
             "raids": 0,
-            "donations": 1
+            "donations": 0
           },
-          "notes": 1,
+          "notes": 0,
           "notes_by_category": {
             "war": 0.0,
             "cwl": 0,
             "games": 0,
             "raids": 0,
-            "donations": 1.16
+            "donations": 0
           },
-          "general": 0.12,
+          "general": 0.0,
           "score": 0,
           "raw_score": 0,
           "position": 3
@@ -752,7 +752,7 @@
             "cwl": 0,
             "games": 0,
             "raids": 0,
-            "donations": 0.0
+            "donations": 0
           },
           "general": 20.0,
           "score": 0,
@@ -770,24 +770,24 @@
             "cwl": 0,
             "games": 0,
             "raids": 0,
-            "donations": 234.0
+            "donations": 0
           },
           "counts": {
             "war": 0,
             "cwl": 0,
             "games": 0,
             "raids": 0,
-            "donations": 1
+            "donations": 0
           },
-          "notes": 1,
+          "notes": 0,
           "notes_by_category": {
             "war": 0.0,
             "cwl": 0,
             "games": 0,
             "raids": 0,
-            "donations": 27.24
+            "donations": 0
           },
-          "general": 2.72,
+          "general": 0.0,
           "score": 0,
           "raw_score": 0,
           "position": 5
@@ -803,24 +803,24 @@
             "cwl": 0,
             "games": 0,
             "raids": 0,
-            "donations": 32.0
+            "donations": 0
           },
           "counts": {
             "war": 0,
             "cwl": 0,
             "games": 0,
             "raids": 0,
-            "donations": 1
+            "donations": 0
           },
-          "notes": 1,
+          "notes": 0,
           "notes_by_category": {
             "war": 0.0,
             "cwl": 0,
             "games": 0,
             "raids": 0,
-            "donations": 3.73
+            "donations": 0
           },
-          "general": 0.37,
+          "general": 0.0,
           "score": 0,
           "raw_score": 0,
           "position": 6
@@ -836,24 +836,24 @@
             "cwl": 0,
             "games": 0,
             "raids": 0,
-            "donations": 859.0
+            "donations": 0
           },
           "counts": {
             "war": 2,
             "cwl": 0,
             "games": 0,
             "raids": 0,
-            "donations": 1
+            "donations": 0
           },
-          "notes": 3,
+          "notes": 2,
           "notes_by_category": {
             "war": 58.82,
             "cwl": 0,
             "games": 0,
             "raids": 0,
-            "donations": 100.0
+            "donations": 0
           },
-          "general": 21.76,
+          "general": 11.76,
           "score": 0,
           "raw_score": 0,
           "position": 7
@@ -869,24 +869,24 @@
             "cwl": 0,
             "games": 0,
             "raids": 0,
-            "donations": 128.0
+            "donations": 0
           },
           "counts": {
             "war": 0,
             "cwl": 0,
             "games": 0,
             "raids": 0,
-            "donations": 1
+            "donations": 0
           },
-          "notes": 1,
+          "notes": 0,
           "notes_by_category": {
             "war": 0.0,
             "cwl": 0,
             "games": 0,
             "raids": 0,
-            "donations": 14.9
+            "donations": 0
           },
-          "general": 1.49,
+          "general": 0.0,
           "score": 0,
           "raw_score": 0,
           "position": 8
@@ -902,24 +902,24 @@
             "cwl": 0,
             "games": 0,
             "raids": 0,
-            "donations": 13.0
+            "donations": 0
           },
           "counts": {
             "war": 0,
             "cwl": 0,
             "games": 0,
             "raids": 0,
-            "donations": 1
+            "donations": 0
           },
-          "notes": 1,
+          "notes": 0,
           "notes_by_category": {
             "war": 0.0,
             "cwl": 0,
             "games": 0,
             "raids": 0,
-            "donations": 1.51
+            "donations": 0
           },
-          "general": 0.15,
+          "general": 0.0,
           "score": 0,
           "raw_score": 0,
           "position": 9
@@ -937,24 +937,24 @@
             "cwl": 0,
             "games": 0,
             "raids": 0,
-            "donations": 251.0
+            "donations": 0
           },
           "counts": {
             "war": 2,
             "cwl": 0,
             "games": 0,
             "raids": 0,
-            "donations": 1
+            "donations": 0
           },
-          "notes": 3,
+          "notes": 2,
           "notes_by_category": {
             "war": 77.65,
             "cwl": 0,
             "games": 0,
             "raids": 0,
-            "donations": 29.22
+            "donations": 0
           },
-          "general": 18.45,
+          "general": 15.53,
           "score": 0,
           "raw_score": 0,
           "position": 1
@@ -970,24 +970,24 @@
             "cwl": 0,
             "games": 0,
             "raids": 0,
-            "donations": 42.0
+            "donations": 0
           },
           "counts": {
             "war": 0,
             "cwl": 0,
             "games": 0,
             "raids": 0,
-            "donations": 1
+            "donations": 0
           },
-          "notes": 1,
+          "notes": 0,
           "notes_by_category": {
             "war": 0.0,
             "cwl": 0,
             "games": 0,
             "raids": 0,
-            "donations": 4.89
+            "donations": 0
           },
-          "general": 0.49,
+          "general": 0.0,
           "score": 0,
           "raw_score": 0,
           "position": 2
@@ -1003,24 +1003,24 @@
             "cwl": 0,
             "games": 0,
             "raids": 0,
-            "donations": 10.0
+            "donations": 0
           },
           "counts": {
             "war": 0,
             "cwl": 0,
             "games": 0,
             "raids": 0,
-            "donations": 1
+            "donations": 0
           },
-          "notes": 1,
+          "notes": 0,
           "notes_by_category": {
             "war": 0.0,
             "cwl": 0,
             "games": 0,
             "raids": 0,
-            "donations": 1.16
+            "donations": 0
           },
-          "general": 0.12,
+          "general": 0.0,
           "score": 0,
           "raw_score": 0,
           "position": 3
@@ -1051,7 +1051,7 @@
             "cwl": 0,
             "games": 0,
             "raids": 0,
-            "donations": 0.0
+            "donations": 0
           },
           "general": 20.0,
           "score": 0,
@@ -1069,24 +1069,24 @@
             "cwl": 0,
             "games": 0,
             "raids": 0,
-            "donations": 234.0
+            "donations": 0
           },
           "counts": {
             "war": 0,
             "cwl": 0,
             "games": 0,
             "raids": 0,
-            "donations": 1
+            "donations": 0
           },
-          "notes": 1,
+          "notes": 0,
           "notes_by_category": {
             "war": 0.0,
             "cwl": 0,
             "games": 0,
             "raids": 0,
-            "donations": 27.24
+            "donations": 0
           },
-          "general": 2.72,
+          "general": 0.0,
           "score": 0,
           "raw_score": 0,
           "position": 5
@@ -1102,24 +1102,24 @@
             "cwl": 0,
             "games": 0,
             "raids": 0,
-            "donations": 32.0
+            "donations": 0
           },
           "counts": {
             "war": 0,
             "cwl": 0,
             "games": 0,
             "raids": 0,
-            "donations": 1
+            "donations": 0
           },
-          "notes": 1,
+          "notes": 0,
           "notes_by_category": {
             "war": 0.0,
             "cwl": 0,
             "games": 0,
             "raids": 0,
-            "donations": 3.73
+            "donations": 0
           },
-          "general": 0.37,
+          "general": 0.0,
           "score": 0,
           "raw_score": 0,
           "position": 6
@@ -1135,24 +1135,24 @@
             "cwl": 0,
             "games": 0,
             "raids": 0,
-            "donations": 859.0
+            "donations": 0
           },
           "counts": {
             "war": 2,
             "cwl": 0,
             "games": 0,
             "raids": 0,
-            "donations": 1
+            "donations": 0
           },
-          "notes": 3,
+          "notes": 2,
           "notes_by_category": {
             "war": 58.82,
             "cwl": 0,
             "games": 0,
             "raids": 0,
-            "donations": 100.0
+            "donations": 0
           },
-          "general": 21.76,
+          "general": 11.76,
           "score": 0,
           "raw_score": 0,
           "position": 7
@@ -1168,24 +1168,24 @@
             "cwl": 0,
             "games": 0,
             "raids": 0,
-            "donations": 128.0
+            "donations": 0
           },
           "counts": {
             "war": 0,
             "cwl": 0,
             "games": 0,
             "raids": 0,
-            "donations": 1
+            "donations": 0
           },
-          "notes": 1,
+          "notes": 0,
           "notes_by_category": {
             "war": 0.0,
             "cwl": 0,
             "games": 0,
             "raids": 0,
-            "donations": 14.9
+            "donations": 0
           },
-          "general": 1.49,
+          "general": 0.0,
           "score": 0,
           "raw_score": 0,
           "position": 8
@@ -1201,24 +1201,24 @@
             "cwl": 0,
             "games": 0,
             "raids": 0,
-            "donations": 13.0
+            "donations": 0
           },
           "counts": {
             "war": 0,
             "cwl": 0,
             "games": 0,
             "raids": 0,
-            "donations": 1
+            "donations": 0
           },
-          "notes": 1,
+          "notes": 0,
           "notes_by_category": {
             "war": 0.0,
             "cwl": 0,
             "games": 0,
             "raids": 0,
-            "donations": 1.51
+            "donations": 0
           },
-          "general": 0.15,
+          "general": 0.0,
           "score": 0,
           "raw_score": 0,
           "position": 9
@@ -1236,24 +1236,24 @@
             "cwl": 0,
             "games": 0,
             "raids": 0,
-            "donations": 251.0
+            "donations": 0
           },
           "counts": {
             "war": 2,
             "cwl": 0,
             "games": 0,
             "raids": 0,
-            "donations": 1
+            "donations": 0
           },
-          "notes": 3,
+          "notes": 2,
           "notes_by_category": {
             "war": 77.65,
             "cwl": 0,
             "games": 0,
             "raids": 0,
-            "donations": 29.22
+            "donations": 0
           },
-          "general": 18.45,
+          "general": 15.53,
           "score": 0,
           "raw_score": 0,
           "position": 1
@@ -1269,24 +1269,24 @@
             "cwl": 0,
             "games": 0,
             "raids": 0,
-            "donations": 42.0
+            "donations": 0
           },
           "counts": {
             "war": 0,
             "cwl": 0,
             "games": 0,
             "raids": 0,
-            "donations": 1
+            "donations": 0
           },
-          "notes": 1,
+          "notes": 0,
           "notes_by_category": {
             "war": 0.0,
             "cwl": 0,
             "games": 0,
             "raids": 0,
-            "donations": 4.89
+            "donations": 0
           },
-          "general": 0.49,
+          "general": 0.0,
           "score": 0,
           "raw_score": 0,
           "position": 2
@@ -1302,24 +1302,24 @@
             "cwl": 0,
             "games": 0,
             "raids": 0,
-            "donations": 10.0
+            "donations": 0
           },
           "counts": {
             "war": 0,
             "cwl": 0,
             "games": 0,
             "raids": 0,
-            "donations": 1
+            "donations": 0
           },
-          "notes": 1,
+          "notes": 0,
           "notes_by_category": {
             "war": 0.0,
             "cwl": 0,
             "games": 0,
             "raids": 0,
-            "donations": 1.16
+            "donations": 0
           },
-          "general": 0.12,
+          "general": 0.0,
           "score": 0,
           "raw_score": 0,
           "position": 3
@@ -1350,7 +1350,7 @@
             "cwl": 0,
             "games": 0,
             "raids": 0,
-            "donations": 0.0
+            "donations": 0
           },
           "general": 20.0,
           "score": 0,
@@ -1368,24 +1368,24 @@
             "cwl": 0,
             "games": 0,
             "raids": 0,
-            "donations": 234.0
+            "donations": 0
           },
           "counts": {
             "war": 0,
             "cwl": 0,
             "games": 0,
             "raids": 0,
-            "donations": 1
+            "donations": 0
           },
-          "notes": 1,
+          "notes": 0,
           "notes_by_category": {
             "war": 0.0,
             "cwl": 0,
             "games": 0,
             "raids": 0,
-            "donations": 27.24
+            "donations": 0
           },
-          "general": 2.72,
+          "general": 0.0,
           "score": 0,
           "raw_score": 0,
           "position": 5
@@ -1401,24 +1401,24 @@
             "cwl": 0,
             "games": 0,
             "raids": 0,
-            "donations": 32.0
+            "donations": 0
           },
           "counts": {
             "war": 0,
             "cwl": 0,
             "games": 0,
             "raids": 0,
-            "donations": 1
+            "donations": 0
           },
-          "notes": 1,
+          "notes": 0,
           "notes_by_category": {
             "war": 0.0,
             "cwl": 0,
             "games": 0,
             "raids": 0,
-            "donations": 3.73
+            "donations": 0
           },
-          "general": 0.37,
+          "general": 0.0,
           "score": 0,
           "raw_score": 0,
           "position": 6
@@ -1434,24 +1434,24 @@
             "cwl": 0,
             "games": 0,
             "raids": 0,
-            "donations": 859.0
+            "donations": 0
           },
           "counts": {
             "war": 2,
             "cwl": 0,
             "games": 0,
             "raids": 0,
-            "donations": 1
+            "donations": 0
           },
-          "notes": 3,
+          "notes": 2,
           "notes_by_category": {
             "war": 58.82,
             "cwl": 0,
             "games": 0,
             "raids": 0,
-            "donations": 100.0
+            "donations": 0
           },
-          "general": 21.76,
+          "general": 11.76,
           "score": 0,
           "raw_score": 0,
           "position": 7
@@ -1467,24 +1467,24 @@
             "cwl": 0,
             "games": 0,
             "raids": 0,
-            "donations": 128.0
+            "donations": 0
           },
           "counts": {
             "war": 0,
             "cwl": 0,
             "games": 0,
             "raids": 0,
-            "donations": 1
+            "donations": 0
           },
-          "notes": 1,
+          "notes": 0,
           "notes_by_category": {
             "war": 0.0,
             "cwl": 0,
             "games": 0,
             "raids": 0,
-            "donations": 14.9
+            "donations": 0
           },
-          "general": 1.49,
+          "general": 0.0,
           "score": 0,
           "raw_score": 0,
           "position": 8
@@ -1500,63 +1500,30 @@
             "cwl": 0,
             "games": 0,
             "raids": 0,
-            "donations": 13.0
+            "donations": 0
           },
           "counts": {
             "war": 0,
             "cwl": 0,
             "games": 0,
             "raids": 0,
-            "donations": 1
+            "donations": 0
           },
-          "notes": 1,
+          "notes": 0,
           "notes_by_category": {
             "war": 0.0,
             "cwl": 0,
             "games": 0,
             "raids": 0,
-            "donations": 1.51
+            "donations": 0
           },
-          "general": 0.15,
+          "general": 0.0,
           "score": 0,
           "raw_score": 0,
           "position": 9
         }
       ],
       "donations": [
-        {
-          "member_id": 2,
-          "name": "Myrai",
-          "tag": "#28UOCQLOC",
-          "active": 1,
-          "deleted": 0,
-          "raw": {
-            "war": 50.0,
-            "cwl": 0,
-            "games": 0,
-            "raids": 0,
-            "donations": 859.0
-          },
-          "counts": {
-            "war": 2,
-            "cwl": 0,
-            "games": 0,
-            "raids": 0,
-            "donations": 1
-          },
-          "notes": 3,
-          "notes_by_category": {
-            "war": 58.82,
-            "cwl": 0,
-            "games": 0,
-            "raids": 0,
-            "donations": 100.0
-          },
-          "general": 21.76,
-          "score": 100.0,
-          "raw_score": 859.0,
-          "position": 1
-        },
         {
           "member_id": 1,
           "name": "Bahamut",
@@ -1568,93 +1535,27 @@
             "cwl": 0,
             "games": 0,
             "raids": 0,
-            "donations": 251.0
+            "donations": 0
           },
           "counts": {
             "war": 2,
             "cwl": 0,
             "games": 0,
             "raids": 0,
-            "donations": 1
+            "donations": 0
           },
-          "notes": 3,
+          "notes": 2,
           "notes_by_category": {
             "war": 77.65,
             "cwl": 0,
             "games": 0,
             "raids": 0,
-            "donations": 29.22
+            "donations": 0
           },
-          "general": 18.45,
-          "score": 29.22,
-          "raw_score": 251.0,
-          "position": 2
-        },
-        {
-          "member_id": 5,
-          "name": "KingBento28",
-          "tag": "#GLRG2YQVQ",
-          "active": 1,
-          "deleted": 0,
-          "raw": {
-            "war": 0,
-            "cwl": 0,
-            "games": 0,
-            "raids": 0,
-            "donations": 234.0
-          },
-          "counts": {
-            "war": 0,
-            "cwl": 0,
-            "games": 0,
-            "raids": 0,
-            "donations": 1
-          },
-          "notes": 1,
-          "notes_by_category": {
-            "war": 0.0,
-            "cwl": 0,
-            "games": 0,
-            "raids": 0,
-            "donations": 27.24
-          },
-          "general": 2.72,
-          "score": 27.24,
-          "raw_score": 234.0,
-          "position": 3
-        },
-        {
-          "member_id": 7,
-          "name": "zeloni",
-          "tag": "#QRP92VLPP",
-          "active": 1,
-          "deleted": 0,
-          "raw": {
-            "war": 0,
-            "cwl": 0,
-            "games": 0,
-            "raids": 0,
-            "donations": 128.0
-          },
-          "counts": {
-            "war": 0,
-            "cwl": 0,
-            "games": 0,
-            "raids": 0,
-            "donations": 1
-          },
-          "notes": 1,
-          "notes_by_category": {
-            "war": 0.0,
-            "cwl": 0,
-            "games": 0,
-            "raids": 0,
-            "donations": 14.9
-          },
-          "general": 1.49,
-          "score": 14.9,
-          "raw_score": 128.0,
-          "position": 4
+          "general": 15.53,
+          "score": 0,
+          "raw_score": 0,
+          "position": 1
         },
         {
           "member_id": 11,
@@ -1667,93 +1568,27 @@
             "cwl": 0,
             "games": 0,
             "raids": 0,
-            "donations": 42.0
+            "donations": 0
           },
           "counts": {
             "war": 0,
             "cwl": 0,
             "games": 0,
             "raids": 0,
-            "donations": 1
+            "donations": 0
           },
-          "notes": 1,
+          "notes": 0,
           "notes_by_category": {
             "war": 0.0,
             "cwl": 0,
             "games": 0,
             "raids": 0,
-            "donations": 4.89
+            "donations": 0
           },
-          "general": 0.49,
-          "score": 4.89,
-          "raw_score": 42.0,
-          "position": 5
-        },
-        {
-          "member_id": 9,
-          "name": "Marechal MAR",
-          "tag": "#YPRJYP082",
-          "active": 1,
-          "deleted": 0,
-          "raw": {
-            "war": 0,
-            "cwl": 0,
-            "games": 0,
-            "raids": 0,
-            "donations": 32.0
-          },
-          "counts": {
-            "war": 0,
-            "cwl": 0,
-            "games": 0,
-            "raids": 0,
-            "donations": 1
-          },
-          "notes": 1,
-          "notes_by_category": {
-            "war": 0.0,
-            "cwl": 0,
-            "games": 0,
-            "raids": 0,
-            "donations": 3.73
-          },
-          "general": 0.37,
-          "score": 3.73,
-          "raw_score": 32.0,
-          "position": 6
-        },
-        {
-          "member_id": 10,
-          "name": "Zero",
-          "tag": "#GGR2UPPRY",
-          "active": 1,
-          "deleted": 0,
-          "raw": {
-            "war": 0,
-            "cwl": 0,
-            "games": 0,
-            "raids": 0,
-            "donations": 13.0
-          },
-          "counts": {
-            "war": 0,
-            "cwl": 0,
-            "games": 0,
-            "raids": 0,
-            "donations": 1
-          },
-          "notes": 1,
-          "notes_by_category": {
-            "war": 0.0,
-            "cwl": 0,
-            "games": 0,
-            "raids": 0,
-            "donations": 1.51
-          },
-          "general": 0.15,
-          "score": 1.51,
-          "raw_score": 13.0,
-          "position": 7
+          "general": 0.0,
+          "score": 0,
+          "raw_score": 0,
+          "position": 2
         },
         {
           "member_id": 3,
@@ -1766,27 +1601,27 @@
             "cwl": 0,
             "games": 0,
             "raids": 0,
-            "donations": 10.0
+            "donations": 0
           },
           "counts": {
             "war": 0,
             "cwl": 0,
             "games": 0,
             "raids": 0,
-            "donations": 1
+            "donations": 0
           },
-          "notes": 1,
+          "notes": 0,
           "notes_by_category": {
             "war": 0.0,
             "cwl": 0,
             "games": 0,
             "raids": 0,
-            "donations": 1.16
+            "donations": 0
           },
-          "general": 0.12,
-          "score": 1.16,
-          "raw_score": 10.0,
-          "position": 8
+          "general": 0.0,
+          "score": 0,
+          "raw_score": 0,
+          "position": 3
         },
         {
           "member_id": 4,
@@ -1814,10 +1649,175 @@
             "cwl": 0,
             "games": 0,
             "raids": 0,
-            "donations": 0.0
+            "donations": 0
           },
           "general": 20.0,
-          "score": 0.0,
+          "score": 0,
+          "raw_score": 0,
+          "position": 4
+        },
+        {
+          "member_id": 5,
+          "name": "KingBento28",
+          "tag": "#GLRG2YQVQ",
+          "active": 1,
+          "deleted": 0,
+          "raw": {
+            "war": 0,
+            "cwl": 0,
+            "games": 0,
+            "raids": 0,
+            "donations": 0
+          },
+          "counts": {
+            "war": 0,
+            "cwl": 0,
+            "games": 0,
+            "raids": 0,
+            "donations": 0
+          },
+          "notes": 0,
+          "notes_by_category": {
+            "war": 0.0,
+            "cwl": 0,
+            "games": 0,
+            "raids": 0,
+            "donations": 0
+          },
+          "general": 0.0,
+          "score": 0,
+          "raw_score": 0,
+          "position": 5
+        },
+        {
+          "member_id": 9,
+          "name": "Marechal MAR",
+          "tag": "#YPRJYP082",
+          "active": 1,
+          "deleted": 0,
+          "raw": {
+            "war": 0,
+            "cwl": 0,
+            "games": 0,
+            "raids": 0,
+            "donations": 0
+          },
+          "counts": {
+            "war": 0,
+            "cwl": 0,
+            "games": 0,
+            "raids": 0,
+            "donations": 0
+          },
+          "notes": 0,
+          "notes_by_category": {
+            "war": 0.0,
+            "cwl": 0,
+            "games": 0,
+            "raids": 0,
+            "donations": 0
+          },
+          "general": 0.0,
+          "score": 0,
+          "raw_score": 0,
+          "position": 6
+        },
+        {
+          "member_id": 2,
+          "name": "Myrai",
+          "tag": "#28UOCQLOC",
+          "active": 1,
+          "deleted": 0,
+          "raw": {
+            "war": 50.0,
+            "cwl": 0,
+            "games": 0,
+            "raids": 0,
+            "donations": 0
+          },
+          "counts": {
+            "war": 2,
+            "cwl": 0,
+            "games": 0,
+            "raids": 0,
+            "donations": 0
+          },
+          "notes": 2,
+          "notes_by_category": {
+            "war": 58.82,
+            "cwl": 0,
+            "games": 0,
+            "raids": 0,
+            "donations": 0
+          },
+          "general": 11.76,
+          "score": 0,
+          "raw_score": 0,
+          "position": 7
+        },
+        {
+          "member_id": 7,
+          "name": "zeloni",
+          "tag": "#QRP92VLPP",
+          "active": 1,
+          "deleted": 0,
+          "raw": {
+            "war": 0,
+            "cwl": 0,
+            "games": 0,
+            "raids": 0,
+            "donations": 0
+          },
+          "counts": {
+            "war": 0,
+            "cwl": 0,
+            "games": 0,
+            "raids": 0,
+            "donations": 0
+          },
+          "notes": 0,
+          "notes_by_category": {
+            "war": 0.0,
+            "cwl": 0,
+            "games": 0,
+            "raids": 0,
+            "donations": 0
+          },
+          "general": 0.0,
+          "score": 0,
+          "raw_score": 0,
+          "position": 8
+        },
+        {
+          "member_id": 10,
+          "name": "Zero",
+          "tag": "#GGR2UPPRY",
+          "active": 1,
+          "deleted": 0,
+          "raw": {
+            "war": 0,
+            "cwl": 0,
+            "games": 0,
+            "raids": 0,
+            "donations": 0
+          },
+          "counts": {
+            "war": 0,
+            "cwl": 0,
+            "games": 0,
+            "raids": 0,
+            "donations": 0
+          },
+          "notes": 0,
+          "notes_by_category": {
+            "war": 0.0,
+            "cwl": 0,
+            "games": 0,
+            "raids": 0,
+            "donations": 0
+          },
+          "general": 0.0,
+          "score": 0,
           "raw_score": 0,
           "position": 9
         }
@@ -1825,174 +1825,6 @@
     }
   },
   "launches": [
-    {
-      "id": 22,
-      "member_id": 11,
-      "category": "donations",
-      "type": "event",
-      "event_date": "2026-07-02",
-      "month_ref": "2026-07",
-      "week_ref": "",
-      "points": 42.0,
-      "manual_adjustment": 0.0,
-      "description": "42 doação(ões)",
-      "notes": "",
-      "payload": {
-        "amount": "42"
-      },
-      "created_at": "2026-07-02 20:11:49",
-      "member_name": "chico",
-      "member_tag": "#QQ8982LP2",
-      "member_active": 1,
-      "member_deleted": 0
-    },
-    {
-      "id": 18,
-      "member_id": 3,
-      "category": "donations",
-      "type": "event",
-      "event_date": "2026-07-02",
-      "month_ref": "2026-07",
-      "week_ref": "",
-      "points": 10.0,
-      "manual_adjustment": 0.0,
-      "description": "10 doação(ões)",
-      "notes": "",
-      "payload": {
-        "amount": "10"
-      },
-      "created_at": "2026-07-02 17:17:49",
-      "member_name": "GamerXD",
-      "member_tag": "#PQGYOCUYL",
-      "member_active": 1,
-      "member_deleted": 0
-    },
-    {
-      "id": 17,
-      "member_id": 10,
-      "category": "donations",
-      "type": "event",
-      "event_date": "2026-07-02",
-      "month_ref": "2026-07",
-      "week_ref": "",
-      "points": 13.0,
-      "manual_adjustment": 0.0,
-      "description": "13 doação(ões)",
-      "notes": "",
-      "payload": {
-        "amount": "13"
-      },
-      "created_at": "2026-07-02 17:17:40",
-      "member_name": "Zero",
-      "member_tag": "#GGR2UPPRY",
-      "member_active": 1,
-      "member_deleted": 0
-    },
-    {
-      "id": 16,
-      "member_id": 9,
-      "category": "donations",
-      "type": "event",
-      "event_date": "2026-07-02",
-      "month_ref": "2026-07",
-      "week_ref": "",
-      "points": 32.0,
-      "manual_adjustment": 0.0,
-      "description": "32 doação(ões)",
-      "notes": "",
-      "payload": {
-        "amount": "32"
-      },
-      "created_at": "2026-07-02 17:17:30",
-      "member_name": "Marechal MAR",
-      "member_tag": "#YPRJYP082",
-      "member_active": 1,
-      "member_deleted": 0
-    },
-    {
-      "id": 15,
-      "member_id": 7,
-      "category": "donations",
-      "type": "event",
-      "event_date": "2026-07-02",
-      "month_ref": "2026-07",
-      "week_ref": "",
-      "points": 128.0,
-      "manual_adjustment": 0.0,
-      "description": "128 doação(ões)",
-      "notes": "",
-      "payload": {
-        "amount": "128"
-      },
-      "created_at": "2026-07-02 17:17:18",
-      "member_name": "zeloni",
-      "member_tag": "#QRP92VLPP",
-      "member_active": 1,
-      "member_deleted": 0
-    },
-    {
-      "id": 13,
-      "member_id": 5,
-      "category": "donations",
-      "type": "event",
-      "event_date": "2026-07-02",
-      "month_ref": "2026-07",
-      "week_ref": "",
-      "points": 234.0,
-      "manual_adjustment": 0.0,
-      "description": "234 doação(ões)",
-      "notes": "",
-      "payload": {
-        "amount": "234"
-      },
-      "created_at": "2026-07-02 17:16:50",
-      "member_name": "KingBento28",
-      "member_tag": "#GLRG2YQVQ",
-      "member_active": 1,
-      "member_deleted": 0
-    },
-    {
-      "id": 12,
-      "member_id": 1,
-      "category": "donations",
-      "type": "event",
-      "event_date": "2026-07-02",
-      "month_ref": "2026-07",
-      "week_ref": "",
-      "points": 251.0,
-      "manual_adjustment": 0.0,
-      "description": "251 doação(ões)",
-      "notes": "",
-      "payload": {
-        "amount": "251"
-      },
-      "created_at": "2026-07-02 17:16:39",
-      "member_name": "Bahamut",
-      "member_tag": "#20OCVCGC98",
-      "member_active": 1,
-      "member_deleted": 0
-    },
-    {
-      "id": 11,
-      "member_id": 2,
-      "category": "donations",
-      "type": "event",
-      "event_date": "2026-07-02",
-      "month_ref": "2026-07",
-      "week_ref": "",
-      "points": 859.0,
-      "manual_adjustment": 0.0,
-      "description": "859 doação(ões)",
-      "notes": "",
-      "payload": {
-        "amount": "859"
-      },
-      "created_at": "2026-07-02 17:16:11",
-      "member_name": "Myrai",
-      "member_tag": "#28UOCQLOC",
-      "member_active": 1,
-      "member_deleted": 0
-    },
     {
       "id": 10,
       "member_id": 4,
@@ -2016,10 +1848,13 @@
         "heroBonus": false
       },
       "created_at": "2026-07-02 17:14:45",
+      "event_id": null,
       "member_name": "JEIMES BONDI",
       "member_tag": "P9UCLGLGR",
       "member_active": 1,
-      "member_deleted": 0
+      "member_deleted": 0,
+      "event_name": null,
+      "event_status": null
     },
     {
       "id": 9,
@@ -2045,10 +1880,13 @@
         "heroBonus": true
       },
       "created_at": "2026-07-02 17:14:25",
+      "event_id": null,
       "member_name": "JEIMES BONDI",
       "member_tag": "P9UCLGLGR",
       "member_active": 1,
-      "member_deleted": 0
+      "member_deleted": 0,
+      "event_name": null,
+      "event_status": null
     },
     {
       "id": 8,
@@ -2073,10 +1911,13 @@
         "heroBonus": false
       },
       "created_at": "2026-07-02 17:13:27",
+      "event_id": null,
       "member_name": "Myrai",
       "member_tag": "#28UOCQLOC",
       "member_active": 1,
-      "member_deleted": 0
+      "member_deleted": 0,
+      "event_name": null,
+      "event_status": null
     },
     {
       "id": 7,
@@ -2102,10 +1943,13 @@
         "heroBonus": false
       },
       "created_at": "2026-07-02 17:12:47",
+      "event_id": null,
       "member_name": "Myrai",
       "member_tag": "#28UOCQLOC",
       "member_active": 1,
-      "member_deleted": 0
+      "member_deleted": 0,
+      "event_name": null,
+      "event_status": null
     },
     {
       "id": 6,
@@ -2130,10 +1974,13 @@
         "heroBonus": false
       },
       "created_at": "2026-07-02 17:11:43",
+      "event_id": null,
       "member_name": "Bahamut",
       "member_tag": "#20OCVCGC98",
       "member_active": 1,
-      "member_deleted": 0
+      "member_deleted": 0,
+      "event_name": null,
+      "event_status": null
     },
     {
       "id": 5,
@@ -2159,10 +2006,13 @@
         "heroBonus": false
       },
       "created_at": "2026-07-02 17:11:11",
+      "event_id": null,
       "member_name": "Bahamut",
       "member_tag": "#20OCVCGC98",
       "member_active": 1,
-      "member_deleted": 0
+      "member_deleted": 0,
+      "event_name": null,
+      "event_status": null
     }
   ],
   "members": [
