@@ -176,6 +176,8 @@ O objetivo pode ser, por exemplo:
 
 Se o alvo era estratégico, mas o objetivo não foi cumprido, o jogador recebe apenas os pontos das estrelas obtidas.
 
+Esse bônus não se aplica a defesas.
+
 ---
 
 ## 🚫 Ataque em vila já fechada
@@ -265,6 +267,8 @@ O jogador recebe **+25 pontos** se:
 - cumprir o objetivo determinado.
 
 Se o alvo for correto, mas o objetivo não for cumprido, o jogador recebe somente os pontos das estrelas.
+
+Esse bônus não se aplica a defesas.
 
 ---
 
