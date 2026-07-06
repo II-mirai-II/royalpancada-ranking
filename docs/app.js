@@ -9,10 +9,19 @@ const CATEGORIES = {
 const $ = (id) => document.getElementById(id);
 const fmt = (value) => Number(value || 0).toLocaleString("pt-BR", { maximumFractionDigits: 2 });
 const medal = (position) => ({ 1: "🥇 1", 2: "🥈 2", 3: "🥉 3" }[position] || position);
+const JULY_2026_PRIZES = {
+  1: "Có-líder + escolha até R$ 35,00",
+  2: "Có-líder + escolha até R$ 22,00",
+  3: "Có-líder + escolha até R$ 20,00",
+  4: "Có-líder + Paisagem até R$ 12,90",
+  5: "Có-líder + Paisagem até R$ 12,90",
+};
 let data = null;
 
 const esc = (value) => String(value ?? "").replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
-const rankAttrs = (position) => position <= 3 ? ` data-rank="${position}"` : "";
+const isJuly2026PrizeSeason = () => $("monthSelect")?.value === "2026-07";
+const prizeLabel = (position) => isJuly2026PrizeSeason() ? JULY_2026_PRIZES[position] || "" : "";
+const rankAttrs = (position, view) => position <= (view === "general" && isJuly2026PrizeSeason() ? 5 : 3) ? ` data-rank="${position}"` : "";
 const statusBadge = (r) => `<span class="badge ${r.active && !r.deleted ? "" : "off"}">${r.deleted ? "Excluído" : (r.active ? "Ativo" : "Inativo")}</span>`;
 
 function renderRanking(view) {
@@ -20,24 +29,26 @@ function renderRanking(view) {
   const rows = data.rankings?.[month]?.[view] || [];
   $("title").textContent = view === "general" ? "Ranking Geral" : CATEGORIES[view];
   $("subtitle").textContent = `Ranking mensal • ${month}`;
+  const showPrizeColumn = view === "general" && isJuly2026PrizeSeason();
   if (view === "general") {
     $("content").innerHTML = `<table><thead><tr>
-      <th>Pos.</th><th>Jogador</th><th>Status</th><th class="num">Nota geral</th>
+      <th>Pos.</th><th>Jogador</th><th>Status</th>${showPrizeColumn ? `<th>Prêmio Julho/2026</th>` : ""}<th class="num">Nota geral</th>
       <th class="num">Guerra</th><th class="num">CWL</th><th class="num">Jogos</th><th class="num">Raides</th><th class="num">Doações</th>
-    </tr></thead><tbody>${rows.map((r) => `<tr${rankAttrs(r.position)}>
+    </tr></thead><tbody>${rows.map((r) => `<tr${rankAttrs(r.position, view)}>
       <td><strong class="rank-pos">${medal(r.position)}</strong></td>
       <td>${esc(r.name)}${r.tag ? `<br><small>${esc(r.tag)}</small>` : ""}</td>
       <td>${statusBadge(r)}</td>
+      ${showPrizeColumn ? `<td>${prizeLabel(r.position) ? `<span class="prize-chip">${esc(prizeLabel(r.position))}</span>` : ""}</td>` : ""}
       <td class="num"><strong>${fmt(r.score)}</strong></td>
       <td class="num">${fmt(r.notes_by_category.war)}</td><td class="num">${fmt(r.notes_by_category.cwl)}</td>
       <td class="num">${fmt(r.notes_by_category.games)}</td><td class="num">${fmt(r.notes_by_category.raids)}</td>
       <td class="num">${fmt(r.notes_by_category.donations)}</td>
-    </tr>`).join("") || `<tr><td colspan="9" class="empty">Sem pontuação neste mês.</td></tr>`}</tbody></table>`;
+    </tr>`).join("") || `<tr><td colspan="${showPrizeColumn ? 10 : 9}" class="empty">Sem pontuação neste mês.</td></tr>`}</tbody></table>`;
     return;
   }
   $("content").innerHTML = `<table><thead><tr>
     <th>Pos.</th><th>Jogador</th><th>Status</th><th class="num">Pontos brutos</th><th class="num">Nota</th><th class="num">Lançamentos</th>
-  </tr></thead><tbody>${rows.map((r) => `<tr${rankAttrs(r.position)}>
+  </tr></thead><tbody>${rows.map((r) => `<tr${rankAttrs(r.position, view)}>
     <td><strong class="rank-pos">${medal(r.position)}</strong></td>
     <td>${esc(r.name)}${r.tag ? `<br><small>${esc(r.tag)}</small>` : ""}</td>
     <td>${statusBadge(r)}</td><td class="num"><strong>${fmt(r.raw_score)}</strong></td>

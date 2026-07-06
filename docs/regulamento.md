@@ -24,6 +24,14 @@ Isso deixa a disputa mais justa, porque evita que uma categoria com muitos ponto
 
 ---
 
+## Players com múltiplas contas
+
+Players que possuem outras contas no clã são considerados por eventos únicos com os melhores resultados para compor a pontuação do Ranking, evitando a multiplicação de ganhos por conta, mas mantendo a justiça pelo esforço de manter mais de 1 conta no clã em utilização.
+
+Quando duas ou mais contas pertencem ao mesmo player e participam do mesmo evento, o Ranking considera somente a conta com o melhor total daquele evento. Os lançamentos continuam auditáveis por conta no histórico.
+
+---
+
 ## ⚖️ Pesos do Ranking Geral
 
 | Categoria | Peso no Ranking Geral |
@@ -49,39 +57,37 @@ Doações × 0,10
 
 ## 🥇 Premiações do Ranking Geral
 
-Os **3 primeiros colocados do Ranking Geral mensal** serão premiados.  
-Esses jogadores representam os melhores desempenhos do mês e receberão recompensas especiais. 👑
+Para a **Temporada de Julho de 2026**, os **5 primeiros colocados do Ranking Geral mensal** serão premiados.
+
+Patrocinador da temporada: **Líder mirai**. 👑
 
 ### 🥇 1º Lugar — Campeão do Mês
 
-O primeiro colocado poderá escolher **1 recompensa** entre:
+O primeiro colocado poderá escolher o que deseja receber no jogo, com valor máximo de:
 
-- 🎫 **1x Bilhete Dourado**
-- 🦸 **1x Visual de Herói de até R$ 18,50**
-- 🌄 **1x Paisagem de até R$ 12,90**
-
-Além disso, receberá:
-
-- 👑 **Cargo de Co-Líder**
-- 🛡️ Entrada na **Liderança do Clã**
+- 🎁 **Até R$ 35,00**
+- 👑 **Cargo de Có-líder do Clã**
 
 ### 🥈 2º Lugar — Vice-Campeão
 
-O segundo colocado poderá escolher **1 recompensa** entre:
+O segundo colocado poderá escolher o que deseja receber no jogo, com valor máximo de:
 
-- 🦸 **1x Visual de Herói de até R$ 18,50**
-- 🌄 **1x Paisagem de até R$ 12,90**
-
-Além disso, receberá:
-
-- ⭐ **Cargo de Ancião**
+- 🎁 **Até R$ 22,00**
+- 👑 **Cargo de Có-líder do Clã**
 
 ### 🥉 3º Lugar — Destaque do Pódio
 
-O terceiro colocado receberá:
+O terceiro colocado poderá escolher o que deseja receber no jogo, com valor máximo de:
 
-- 🌄 **1x Paisagem de até R$ 12,90**
-- ⭐ **Cargo de Ancião**
+- 🎁 **Até R$ 20,00**
+- 👑 **Cargo de Có-líder do Clã**
+
+### 👑 4º e 5º Lugares — Destaques da Temporada
+
+O quarto e o quinto lugares receberão:
+
+- 👑 **Cargo de Có-líder do Clã**
+- 🌄 **1x Paisagem de sua escolha de até R$ 12,90**
 
 ---
 
@@ -186,6 +192,14 @@ Na defesa, será considerado apenas o **melhor ataque inimigo sofrido**.
 
 O jogador pontua pelas estrelas que conseguiu manter.
 
+Regra prática:
+
+```text
+Estrelas mantidas = 3 - estrelas sofridas no melhor ataque inimigo
+```
+
+Se a vila não foi atacada, a defesa soma 0 pontos.
+
 | Ataque inimigo | Estrelas mantidas |
 | --- | ---: |
 | Sofreu 0 estrelas | 3 |
@@ -257,6 +271,14 @@ Se o alvo for correto, mas o objetivo não for cumprido, o jogador recebe soment
 ## 🛡️ Defesa por Rodada
 
 A defesa funciona da mesma forma que nas guerras comuns: vale o melhor ataque inimigo sofrido na rodada.
+
+Regra prática:
+
+```text
+Estrelas mantidas = 3 - estrelas sofridas no melhor ataque inimigo
+```
+
+Se a vila não foi atacada, a defesa soma 0 pontos.
 
 | Ataque inimigo | Estrelas mantidas |
 | --- | ---: |

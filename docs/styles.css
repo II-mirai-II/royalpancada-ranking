@@ -40,7 +40,9 @@ tr[data-rank] td:first-child { box-shadow: inset 4px 0 0 var(--podium-color); }
 tr[data-rank="1"] { --podium-color: #f5be44; --podium-bg: rgba(245,190,68,.14); }
 tr[data-rank="2"] { --podium-color: #bcc6d0; --podium-bg: rgba(188,198,208,.13); }
 tr[data-rank="3"] { --podium-color: #c47c46; --podium-bg: rgba(196,124,70,.14); }
+tr[data-rank="4"], tr[data-rank="5"] { --podium-color: #52c7a5; --podium-bg: rgba(82,199,165,.11); }
 .rank-pos { display: inline-flex; align-items: center; gap: 8px; min-width: 54px; }
+.prize-chip { display: inline-flex; align-items: center; max-width: 260px; min-height: 26px; border: 1px solid rgba(245,190,68,.24); border-radius: 999px; padding: 3px 10px; color: #ffe4a3; background: rgba(245,190,68,.10); font-size: 12px; font-weight: 800; white-space: normal; }
 .num { text-align: right; }
 small { color: var(--muted); }
 .badge { display: inline-flex; align-items: center; min-height: 24px; border-radius: 999px; padding: 0 9px; font-size: 12px; font-weight: 800; background: rgba(47,183,168,.16); color: var(--accent); }
